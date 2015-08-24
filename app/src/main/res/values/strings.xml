@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomNumberGenerator</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="generate">Generate</string>
+    <string name="blank">\"\"</string>
+</resources>
